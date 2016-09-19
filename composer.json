@@ -1,0 +1,12 @@
+{
+    "name": "ghiobi/vanlew",
+    "authors": [
+        {
+            "name": "Laurendy Lam",
+            "email": "lamlaurendy@gmail.com"
+        }
+    ],
+    "require": {
+        "fabpot/goutte": "^3.1"
+    }
+}
