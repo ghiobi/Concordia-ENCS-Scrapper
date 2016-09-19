@@ -1,11 +1,11 @@
 # vanlew
-A script to scrape Concordia's ENCS and CS sections on [https://aits.encs.concordia.ca/oldsite/resources/schedules/courses/](https://aits.encs.concordia.ca/oldsite/resources/schedules/courses/).
+A script to scrape Concordia's ENGR and CS sections on [https://aits.encs.concordia.ca/oldsite/resources/schedules/courses/](https://aits.encs.concordia.ca/oldsite/resources/schedules/courses/).
 
-### How to use
+### How to Use
 1. Install dependencies `composer install`
 2. Execute script `php sections.php`
 
-### Format
+### Output Format
 ```
 [
    {
